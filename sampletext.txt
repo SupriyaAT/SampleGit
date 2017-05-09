@@ -5,4 +5,7 @@ Second checkin to git
 
 Wrong check-in reverted 
 
-Fourth Check-in from GitHub  
+Fourth Check-in from GitHub
+
+Third checkin from sourcetree automation branch
+
