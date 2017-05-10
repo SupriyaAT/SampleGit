@@ -8,7 +8,7 @@ Fourth Check-in from GitHub
 
 Third checkin from sourcetree automation branch
 
-Chceking one more time today
-
+<<<<<<< HEAD
 Checking in in Bug file
-
+=======
+>>>>>>> parent of f9e6ad9... 10th May 2017
