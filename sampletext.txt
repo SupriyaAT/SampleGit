@@ -1,5 +1,4 @@
-
-Hi This is supriya testing the git
+First checkin to Git
 
 Second checkin to git
 
