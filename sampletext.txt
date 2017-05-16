@@ -18,6 +18,10 @@ Check in new branch
 
 Check in in new only to local
 
+<<<<<<< HEAD
 Check in to master
 
 Check in to master again 
+=======
+Commit to local from Test1 branch
+>>>>>>> Test1
