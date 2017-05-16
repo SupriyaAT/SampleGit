@@ -3,3 +3,7 @@ Hello there!
 This is first commit in SignIn file.
 
 Enjoy..
+
+This is an experiment for merge 
+
+This is uncommon file.

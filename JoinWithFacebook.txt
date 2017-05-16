@@ -2,4 +2,8 @@ Hola!
 
 You can join with your Facebook account (Assuming you have one)
 
-Great to see you here. 
+Great to see you here.
+
+Commiting in master for experimenting merging.
+
+This is the common file. 
