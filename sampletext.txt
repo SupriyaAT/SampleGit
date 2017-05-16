@@ -26,4 +26,5 @@ Check in to master again
 Commit to local from Test1 branch
 >>>>>>> Test1
 
-Check in from Git 
+Check in from Git
+check in sourcetree 
