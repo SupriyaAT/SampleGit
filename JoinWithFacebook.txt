@@ -4,6 +4,12 @@ You can join with your Facebook account (Assuming you have one)
 
 Great to see you here.
 
+<<<<<<< HEAD
 Commiting in master for experimenting merging.
 
 This is the common file. 
+=======
+This is an experiment for merging with Master.
+
+This is the common file.  
+>>>>>>> B1
