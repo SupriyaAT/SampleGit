@@ -17,3 +17,5 @@ Checkign in on 15th May
 Check in new branch
 
 Check in in new only to local
+
+Commit to local from Test1 branch
