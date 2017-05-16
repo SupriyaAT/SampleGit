@@ -17,3 +17,7 @@ Checkign in on 15th May
 Check in new branch
 
 Check in in new only to local
+
+Check in to master
+
+Check in to master again 
